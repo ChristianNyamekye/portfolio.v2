@@ -1,8 +1,8 @@
 ---
 date: '2023'
 title: 'Quantum Computing Projects'
-github: 'https://github.com/username/quantum-computing'
-external: 'https://quantum-computing-projects.com'
+github: ''
+external: 'https://www.ibm.com/quantum/qiskit'
 tech:
   - Python
   - Qiskit
