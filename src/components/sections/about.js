@@ -157,7 +157,7 @@ const About = () => {
               and accessibility.
             </p>
             <p>
-              I’ve had the privilege of working with{' '}
+              I’ve had the privilege of working at{' '}
               <a href="https://magnuson.dartmouth.edu/">the Magnuson Center for Entrepreneurship</a>
               , <a href="https://www.goldmansachs.com/">Goldman Sachs</a>,{' '}
               <a href="https://codepath.org/">CodePath</a>, and{' '}
